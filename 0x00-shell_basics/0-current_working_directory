@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "where am I?"
+./0-current_working_directory
