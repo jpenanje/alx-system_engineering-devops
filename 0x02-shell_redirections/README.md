@@ -5,3 +5,5 @@ Tasks for Shell redirections
 3-What about two: Display content of two files.
 4-Last lines of a file: Display last 10 lines of a file.
 6-Line #2: Display line 3 alone without sed command
+7-It is a good file that cuts iron without making a noise: Create a file
+8-Save current state of dir: Writing into a file the results of command ls -la
