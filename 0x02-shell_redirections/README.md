@@ -4,3 +4,4 @@ Tasks for Shell redirections
 2-Let's display a file: Display content of a /etc/passwd.
 3-What about two: Display content of two files.
 4-Last lines of a file: Display last 10 lines of a file.
+6-Line #2: Display line 3 alone without sed command
