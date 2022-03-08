@@ -7,3 +7,4 @@ Task-4: List of global variables
 Task-5: List of global and local variables and functions
 Task-6: Creating a local variable
 Task-7: Creating a global variable
+Task-8: Adding 128 to the content of TRUEKNOWLEDGE
