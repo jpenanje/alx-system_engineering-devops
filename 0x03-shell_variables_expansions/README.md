@@ -9,3 +9,4 @@ Task-6: Creating a local variable
 Task-7: Creating a global variable
 Task-8: Adding 128 to the content of TRUEKNOWLEDGE
 Task-9: POWER divided by DIVIDE
+Task-10: BREATH to the power LOVE
