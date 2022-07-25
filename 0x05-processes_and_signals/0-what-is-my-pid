@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
+#display PID of current shell
 echo $$
