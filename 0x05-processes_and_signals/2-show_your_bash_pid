@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#Get the PID of bash processes
+#shellcheck disable=SC2009
+ps aux --forest | grep bash
